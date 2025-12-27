@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "Smart Nearby Places - MySQL",
+            "database": "recommender_analytics",
+            "username": "analytics_user",
+            "password": "analytics123"
+        }
+    ]
+}
